@@ -11,12 +11,17 @@ Ingredientes
 - Dos dientes de ajo.
 - Una cucharada de aceite de oliva.
 - Sal y pimienta al gusto.
-<br><br>
+<br><br><br>
 Instrucciones
 <br>
-4. Agrega los champiñones y cocínelos hasta que estén tiernos.
+4. Agrega los champiñones y cocínelos hasta que estén tiernos. 
+<br>
 1. Hierva la pasta en HAGUA con sal hasta que esté al dente.
+<br>
 6. MESCLE la pasta con la salsa y SIRBA caliente.
+<br>
 3. Caliente el HASEITE y ZOFRIE el ajo picado.
+<br>
 5. Incorpore la crema y REVUELBE suavemente.
+<br>
 2. Escurra la pasta y REZERBE un poco del agua de cocción.

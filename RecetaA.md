@@ -4,6 +4,7 @@ Pasta cremosa con champiñones
 <img src="link" alt="Plato de pasta" width="600">
 <br><br>
 Ingredientes
+<br>
 - Doscientos gramos de pasta.
 - Una taza de champiñones laminados.
 - Media taza de crema de leche.
@@ -12,6 +13,7 @@ Ingredientes
 - Sal y pimienta al gusto.
 <br><br>
 Instrucciones
+<br>
 4. Agrega los champiñones y cocínelos hasta que estén tiernos.
 1. Hierva la pasta en HAGUA con sal hasta que esté al dente.
 6. MESCLE la pasta con la salsa y SIRBA caliente.

@@ -5,14 +5,13 @@ Universidad el Bosque
 Facultad de Comunicación y Creación 
 <br/>
 Programa de Creación Digital 
-<br/>
-<br/>
-<br/>
-
-
-[https://forms.cloud.microsoft/r/aLN15gWr1H]([#sample-section](https://forms.cloud.microsoft/r/aLN15gWr1H))
-HORA LÍMITE DEL FORMULARIO: 08:50.
-
+<br/><br/><br/>
+- A continuación encontrará la actividad a desarrollar como su Parcial Práctico (equivalente al 60% de la nota) en el que se evaluarán sus conocimientos básicos en GIT.
+- Recuerde: Después de crear las ramas solicitadas, debe hacer el ```pull request``` y el ```merge``` correspondiente para que los cambios queden en la rama ```main```.
+- Por favor no elimine ninguna de las ramas creadas para el ejercicio.
+- Debe registrar el link del su repositorio en el siguiente formulario [https://forms.cloud.microsoft/r/aLN15gWr1H](https://forms.cloud.microsoft/r/aLN15gWr1H)
+#### HORA LÍMITE DEL FORMULARIO: 08:50.
+<br/><br/><br/>
 ## Instrucciones:
 1. Cree un repositorio PÚBLICO con el nombre de la siguiente forma:
 ```
@@ -36,13 +35,15 @@ Ejemplo: Palabra REZETHA corregida por receta.
 ```
 8. En la rama creada en el punto anterior, coloque los pasos de preparación en orden.
 9. Finalmente, en la rama ```main``` al final de la receta, escriba su nombre completo y documento de identidad.
-<br><br>
+<br><br><br>
 ## Puntos Negativos (-0.05)
-- Mal nombramiento de rama.
+- No usar Visual Studio Code como herramienta de modificación de código.
+- Mal nombramiento de ramas.
 - Commits vacíos.
 - Commits mal escritos.
 - Crear ```fork``` del repositorio original.
+- Eliminar alguna de las ramas creadas.
 - NO seguir las instrucciones detalladas de este documento.
-<br><br>
+<br><br><br>
 > ## IMPORTANTE
 > En caso de uso de inteligencias artificiales tanto en consulta como coautor del repositorio, el parcial quedará automáticamente ANULADO.

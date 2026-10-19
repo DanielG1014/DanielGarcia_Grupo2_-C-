@@ -9,6 +9,10 @@ Programa de Creación Digital
 <br/>
 <br/>
 
+
+[https://forms.cloud.microsoft/r/aLN15gWr1H]([#sample-section](https://forms.cloud.microsoft/r/aLN15gWr1H))
+HORA LÍMITE DEL FORMULARIO: 08:50.
+
 ## Instrucciones:
 1. Cree un repositorio PÚBLICO con el nombre de la siguiente forma:
 ```
@@ -31,9 +35,14 @@ Palabra <equivocada> corregida por <correcta>.
 Ejemplo: Palabra REZETHA corregida por receta.
 ```
 8. En la rama creada en el punto anterior, coloque los pasos de preparación en orden.
+9. Finalmente, en la rama ```main``` al final de la receta, escriba su nombre completo y documento de identidad.
 <br><br>
 ## Puntos Negativos (-0.05)
-- Mal nombramiento de ramas y commits.
+- Mal nombramiento de rama.
 - Commits vacíos.
+- Commits mal escritos.
 - Crear ```fork``` del repositorio original.
 - NO seguir las instrucciones detalladas de este documento.
+<br><br>
+> ## IMPORTANTE
+> En caso de uso de inteligencias artificiales tanto en consulta como coautor del repositorio, el parcial quedará automáticamente ANULADO.

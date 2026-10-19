@@ -7,8 +7,9 @@ Facultad de Comunicación y Creación
 Programa de Creación Digital 
 <br/><br/><br/>
 - A continuación encontrará la actividad a desarrollar como su Parcial Práctico (equivalente al 60% de la nota) en el que se evaluarán sus conocimientos básicos en GIT.
-- Recuerde: Después de crear las ramas solicitadas, debe hacer el ```pull request``` y el ```merge``` correspondiente para que los cambios queden en la rama ```main```.
+- Puede usar tanto el terminal de comandos de ```GIT``` como ```GitHub Desktop``` para solucionar el ejercicio.
 - Por favor no elimine ninguna de las ramas creadas para el ejercicio.
+- Recuerde: Después de crear las ramas solicitadas, debe hacer el ```pull request``` y el ```merge``` correspondiente para que los cambios queden en la rama ```main```.
 - Debe registrar el link del su repositorio en el siguiente formulario [https://forms.cloud.microsoft/r/aLN15gWr1H](https://forms.cloud.microsoft/r/aLN15gWr1H)
 #### HORA LÍMITE DEL FORMULARIO: 08:50.
 <br/><br/><br/>

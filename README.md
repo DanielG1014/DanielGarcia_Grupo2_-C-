@@ -42,6 +42,7 @@ Ejemplo: Palabra REZETHA corregida por receta.
 - Mal nombramiento de ramas.
 - Commits vacíos.
 - Commits mal escritos.
+- Commits hechos después de la hora del parcial (09:00).
 - Crear ```fork``` del repositorio original.
 - Eliminar alguna de las ramas creadas.
 - NO seguir las instrucciones detalladas de este documento.

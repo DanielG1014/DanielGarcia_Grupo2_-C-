@@ -47,5 +47,43 @@ Ejemplo: Palabra REZETHA corregida por receta.
 - Eliminar alguna de las ramas creadas.
 - NO seguir las instrucciones detalladas de este documento.
 <br><br><br>
+## Tabla de Resumen de Comandos de Git más utilizados
+
+| Comando | Función |
+| --- | --- |
+| git init | Inicializar repositorio |
+| git status | Ver estado de archivos |
+| git add . / git add archivo | Agregar al staging area |
+| git commit -m "mensaje" | Confirmar cambios |
+| git commit --amend --no-edit | Modificar último commit |
+| git log --oneline | Ver historial resumido |
+| git log --oneline --graph --all | Ver historial con gráfico de ramas |
+| git log rama1..rama2 --oneline | Ver commits exclusivos de una rama |
+| git diff | Ver cambios sin staging |
+| git diff --staged | Ver cambios en staging |
+| git diff rama1 rama2 | Comparar dos ramas |
+| git diff --stat rama1 rama2 | Resumen estadístico de diferencias |
+| git restore archivo | Descartar cambios |
+| git restore --staged archivo | Sacar del staging |
+| git branch | Listar ramas locales |
+| git branch -a | Listar todas las ramas (locales y remotas) |
+| git branch -d nombre | Eliminar rama local |
+| git checkout rama | Cambiar de rama |
+| git checkout -b rama | Crear y cambiar de rama |
+| git checkout hash | Explorar un commit antiguo |
+| git merge rama | Fusionar rama |
+| git stash | Guardar cambios temporalmente |
+| git stash list | Ver lista de stashes |
+| git stash pop | Recuperar cambios guardados |
+| git revert HEAD --no-edit | Deshacer commit creando uno nuevo |
+| git reset --soft HEAD~n | Retroceder commits manteniendo cambios |
+| git remote add origin URL | Conectar repositorio remoto |
+| git remote -v | Ver remotos configurados |
+| git push -u origin rama | Subir rama con seguimiento |
+| git push origin rama | Subir cambios al remoto |
+| git push origin --delete rama | Eliminar rama remota |
+| git fetch origin | Descargar sin fusionar |
+| git pull origin rama | Descargar y fusionar |
+<br><br><br>
 > ## IMPORTANTE
 > En caso de uso de inteligencias artificiales tanto en consulta como coautor del repositorio, el parcial quedará automáticamente ANULADO.

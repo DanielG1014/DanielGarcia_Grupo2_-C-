@@ -26,3 +26,5 @@ Instrucciones
 6. Cocine por ambos lados y SIRBA los panqueques TIVIOS.
 <br>
 4. CALIENTE una sartén ligeramente HENGRAZADHA.
+Estudiante: Daniel Garcia
+Documento: 1014865840

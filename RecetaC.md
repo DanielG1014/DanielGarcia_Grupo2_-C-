@@ -1,28 +1,28 @@
-Panqueques de banano
+# Panqueques de banano
 <br>
 <!-- Link: https://images.unsplash.com/photo-1528207776546-365bb710ee93 -->
 <img src="link" alt="Panqueques de banano" width="600">
 <br><br>
-Ingredientes
+## Ingredientes
 <br>
-- Un banano maduro.
-- Dos huevos.
-- Media taza de avena molida.
-- Un cuarto de taza de leche.
-- Una cucharadita de polvo de hornear.
-- Una pizca de canela.
-- Un poco de aceite para la sartén.
+- 1 banano maduro.
+- 2 huevos.
+- 1/2 taza de avena molida.
+- 1/4 de taza de leche.
+- 1 cucharadita de polvo de hornear.
+- 1 pizca de canela.
+- 1 poco de aceite para la sartén.
 <br><br><br>
 Instrucciones
 <br>
-5. BIERTA pequeñas porciones de masa.
+1. Vierta pequeñas porciones de masa.
 <br>
-2. Agregue los GUEBOS y la leche.
+2. Agregue los huevos y la leche.
 <br>
-1. Pele el VANANHO y machaquelo con un tenedor.
+3. Pele el banano y machaquelo con un tenedor.
 <br>
-3. Mezcle con la avena, la canela y el polvo de ORNEARH.
+4. Mezcle con la avena, la canela y el polvo de hornear.
 <br>
-6. Cocine por ambos lados y SIRBA los panqueques TIVIOS.
+5. Cocine por ambos lados y sirva los panqueques tibios.
 <br>
-4. CALIENTE una sartén ligeramente HENGRAZADHA.
+6. CALIENTE una sartén ligeramente engrasada.
